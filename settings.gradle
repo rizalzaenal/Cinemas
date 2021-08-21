@@ -9,4 +9,5 @@ dependencyResolutionManagement {
 rootProject.name = "Cinemas"
 include ':app'
 include ':data'
+include ':usecase'
 include ':domain'
